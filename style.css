@@ -253,7 +253,7 @@ header li {
   }
 
 
-  @media (min-width: 620px) {
+  @media (max-width: 620px) {
 
     .cover {
       display: flex;
